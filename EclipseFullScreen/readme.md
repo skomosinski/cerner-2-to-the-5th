@@ -7,8 +7,8 @@ This is a submission for Cerner's 2018 2^5 programming competition. This year's 
  I did find that I could simulate the full screen effect by having an identical java perspective but with the menu bar hidden. Progress! However, this required me to hit two short cut key combinations (Alt + F11 for full screen, Ctrl + F8 to change perspective) for me to get the desired effect. Of course, I'm too lazy for that. Thus, this AutoHotKey script was born.
 
  This seemed like the quickest and easiest way to get the result I wanted. Now I don't need to hit two different shortcut key combinations, I just need one, and the script does the rest. Two key combinations for the price of one! Now that's what I call productive! <sup><sup>Results may vary. Satisfaction not guaranteed.</sup></sup>
+ ![Context Menu](../images/EclipseFullScreenToggle.gif "Magic")
 <p align="center">
-![Context Menu](../images/EclipseFullScreenToggle.gif "Magic")
 The <s>magic</s> script in action! I'm hitting Ctrl + Shift + F11. Trust me.
 </p>
 
